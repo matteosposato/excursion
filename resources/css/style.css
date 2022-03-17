@@ -12,6 +12,12 @@ section {
     align-items: center;
     justify-content: space-around;
 }
+
+section a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
 section .big_title_section{
     font-weight: normal;
     font-size: 50px;
