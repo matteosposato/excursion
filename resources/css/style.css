@@ -2,4 +2,13 @@
 body {
     background-color: black;
     text-align: center;
+    font-family: Verdana, sans-serif;
+}
+
+/*Style for sections*/
+section .big_title_section{
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+
 }
