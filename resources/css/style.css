@@ -22,3 +22,9 @@ section .cell_img {
     width: 61px;
     height: 109px
 }
+
+footer {
+    font-size: 21px;
+    float: right;
+    color: grey;
+}
