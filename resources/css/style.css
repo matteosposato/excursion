@@ -10,6 +10,7 @@ section {
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: space-around;
 }
 section .big_title_section{
     font-weight: normal;
