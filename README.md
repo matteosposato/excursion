@@ -1,7 +1,1 @@
-Hello everyone. This is the project called Excursion about making web pages with HTML, CSS and GitHub Pages.
-<<<<<<< HEAD
-=======
-Hello everyone. This is the project called Excursion about making web pages with HTML, CSS and GitHub Pages.
->>>>>>> a965bc5 (Add README file locally)
-HEllo HELlo
-Below this line of text the documentation about this repo start
+Hello everyone.<br> This is the project called Excursion about making web pages with <strong><em>HTML</em></strong>, <strong><em>CSS</em></strong> and <strong><em>GitHub Pages</em></strong>. <br>
